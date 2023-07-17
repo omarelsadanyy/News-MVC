@@ -112,7 +112,7 @@ var articlesItem:ArticlesItem?=null
             override fun onTabSelected(tab: TabLayout.Tab?) {
                // val Source= sources?.get(tab?.position?:0)
                 val Source = tab?.tag as SourcesItem
-                sourcesItemsearch=Source
+              //  sourcesItemsearch=Source
                 loadNews(Source,"")
             }
 

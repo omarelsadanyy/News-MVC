@@ -20,6 +20,7 @@ import com.example.news_app.ui.Category
 import com.example.news_app.ui.NewsFragment
 
 
+
 class HomeActivity : AppCompatActivity() {
 
 
