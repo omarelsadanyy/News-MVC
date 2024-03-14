@@ -55,4 +55,5 @@ class CategoriesFragment:Fragment() {
     interface OnCategoryClickListener{
         fun oncategoryclick(category: Category)
     }
+//gg
 }
